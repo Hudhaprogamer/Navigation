@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">belajar_navigation</string>
+    <string name="input_a">Input A</string>
+    <string name="input_b">Input B</string>
+    <string name="hello">hello</string>
+    <string name="txtButtonHello">CLICK ME</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
